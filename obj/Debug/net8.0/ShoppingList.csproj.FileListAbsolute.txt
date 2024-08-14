@@ -1,0 +1,14 @@
+/Users/alainrene/Desktop/AugustWeek2/ShoppingList/bin/Debug/net8.0/ShoppingList
+/Users/alainrene/Desktop/AugustWeek2/ShoppingList/bin/Debug/net8.0/ShoppingList.deps.json
+/Users/alainrene/Desktop/AugustWeek2/ShoppingList/bin/Debug/net8.0/ShoppingList.runtimeconfig.json
+/Users/alainrene/Desktop/AugustWeek2/ShoppingList/bin/Debug/net8.0/ShoppingList.dll
+/Users/alainrene/Desktop/AugustWeek2/ShoppingList/bin/Debug/net8.0/ShoppingList.pdb
+/Users/alainrene/Desktop/AugustWeek2/ShoppingList/obj/Debug/net8.0/ShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alainrene/Desktop/AugustWeek2/ShoppingList/obj/Debug/net8.0/ShoppingList.AssemblyInfoInputs.cache
+/Users/alainrene/Desktop/AugustWeek2/ShoppingList/obj/Debug/net8.0/ShoppingList.AssemblyInfo.cs
+/Users/alainrene/Desktop/AugustWeek2/ShoppingList/obj/Debug/net8.0/ShoppingList.csproj.CoreCompileInputs.cache
+/Users/alainrene/Desktop/AugustWeek2/ShoppingList/obj/Debug/net8.0/ShoppingList.dll
+/Users/alainrene/Desktop/AugustWeek2/ShoppingList/obj/Debug/net8.0/refint/ShoppingList.dll
+/Users/alainrene/Desktop/AugustWeek2/ShoppingList/obj/Debug/net8.0/ShoppingList.pdb
+/Users/alainrene/Desktop/AugustWeek2/ShoppingList/obj/Debug/net8.0/ShoppingList.genruntimeconfig.cache
+/Users/alainrene/Desktop/AugustWeek2/ShoppingList/obj/Debug/net8.0/ref/ShoppingList.dll
